@@ -17,3 +17,4 @@ jobs:
         server: 107.180.63.55
         username: demo
         password: ${{ secrets.password }}
+
