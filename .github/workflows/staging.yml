@@ -16,4 +16,4 @@ jobs:
       with:
         server: 107.180.63.55
         username: demo
-        password: ${{ secrets.ftp_password }}
+        password: 4w9Rxp!2
